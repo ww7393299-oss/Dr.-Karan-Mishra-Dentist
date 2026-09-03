@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge" alt="Responsive">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
 </p>
 
 <p align="center">
@@ -55,22 +54,6 @@ This template is perfect for dentists, dental surgeons, orthodontists, prosthodo
 | **Sticky Navigation** — Transparent navbar with smooth anchor links |
 | **Mobile Menu** | Full-screen hamburger menu for mobile devices |
 | **Scroll Animations** | Elements fade in smoothly as you scroll down the page |
-
----
-
-## 📸 Screenshots
-
-> *Add your own screenshots here by replacing the links below*
-
-<p align="center">
-  <img src="screenshots/hero.png" width="80%" alt="Hero Section">
-  <br><br>
-  <img src="screenshots/services.png" width="80%" alt="Services Section">
-  <br><br>
-  <img src="screenshots/contact.png" width="80%" alt="Contact Form">
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -189,11 +172,7 @@ Update the social media links in the footer:
 dr-karan-mishra-dental/
 ├── index.html          # Main HTML file (single page)
 ├── README.md           # This file
-├── LICENSE             # MIT License
-└── screenshots/        # Add your screenshots here
-    ├── hero.png
-    ├── services.png
-    └── contact.png
+
 ```
 
 > **Note:** This is a single-file website. All HTML, CSS, and JavaScript are contained in `index.html` for simplicity. You can split them into separate files if you prefer.
@@ -212,27 +191,6 @@ Contributions are welcome! If you have suggestions for improvements or find a bu
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use it for personal or commercial projects.
-
-```
-MIT License
-
-Copyright (c) 2024 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
----
 
 ## 📞 Contact
 
